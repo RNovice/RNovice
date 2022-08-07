@@ -27,7 +27,7 @@
       }
 
       .box {
-        margin: 60px auto;
+        margin: 50px auto;
         height: 100px;
         width: 200px;
         position: relative;
@@ -84,7 +84,7 @@
           <div class="bigbox">
             <h1>Hi I'm new to coding 👋</h1>
             <div class="box">
-              <div class="dot a">c</div>
+              <div class="dot a">C</div>
               <div class="dot b">o</div>
               <div class="dot c">d</div>
               <div class="dot d">i</div>
@@ -94,6 +94,7 @@
               <div class="dot h">.</div>
               <div class="dot i">.</div>
             </div>
+            <h5>css</h5>
           </div>
     </div>
   </foreignObject>
