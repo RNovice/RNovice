@@ -34,7 +34,7 @@
       }
       
       .dot {
-        font-size: 22px;
+        font-size: 24px;
         font-weight: bolder;
         color: red;
         position: absolute;
@@ -45,37 +45,21 @@
         animation: infinity 1.8s linear infinite;
       }
 
-      .b {
-        animation-delay: .1s;
-      }
+      .b {animation-delay: .1s;}
 
-      .c {
-        animation-delay: .2s;
-      }
+      .c {animation-delay: .2s;}
 
-      .d {
-        animation-delay: .3s;
-      }
+      .d {animation-delay: .3s;}
 
-      .e {
-        animation-delay: .4s;
-      }
+      .e {animation-delay: .4s;}
 
-      .f {
-        animation-delay: .5s;
-      }
+      .f {animation-delay: .5s;}
 
-      .g {
-        animation-delay: .6s;
-      }
+      .g {animation-delay: .6s;}
 
-      .h {
-        animation-delay: .7s;
-      }
+      .h {animation-delay: .7s;}
 
-      .i {
-        animation-delay: .8s;
-      }
+      .i {animation-delay: .8s;}
 
       @keyframes infinity {
         0%   {left:9px; top:47px; colr:red;}
