@@ -7,8 +7,8 @@
             }
                 
             .yo {
-                height: 420px;
-                width: 420px;
+                height: 300px;
+                width: 300px;
 
                 position: absolute;
                 top: 35%;
