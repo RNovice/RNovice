@@ -6,6 +6,7 @@
                 height: 600px;
                 width: 600px;
                 background-color: white;
+                border-radius: 10px;
             }    
                 
             h1 {
@@ -13,9 +14,9 @@
             }
                 
             .yo {
-                padding: 20px 0px;
-                height: 300px;
-                width: 300px;
+                padding: 20px;
+                height: 250px;
+                width: 250px;
 
                 position: absolute;
                 top: 50%;
@@ -30,8 +31,8 @@
             }
             </style>
             <div class="back">
+                <h1>Hi I'm new to coding 👋</h1>
                 <div class="yo">
-                    <h1>Hi I'm new to coding 👋</h1>
                 </div>
             </div>
         </div>
