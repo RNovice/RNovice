@@ -3,8 +3,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             .back {
-                heigth: 100%;
-                width: 100%;
+                heigth: 600px;
+                width: 600px;
                 background-color: white;
             }    
                 
