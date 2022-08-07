@@ -6,11 +6,9 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
-            h1:hover {
-                color: blue;
-            }
             </style>
             <h1>Hi I'm new to coding 👋</h1>
+            <input type="checkbox">
         </div>
     </foreignObject>
 </svg>
