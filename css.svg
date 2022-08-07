@@ -42,7 +42,7 @@
         top: 47px;
         transform: translate( -50%, -50%);
         text-shadow: -1px -1px #666, 1px -1px #666, -1px  1px #666, 1px  1px #666;
-        animation: infinity 1.8s linear infinite;
+        animation: infinity 2s linear infinite;
       }
 
       .b {animation-delay: .1s;}
@@ -90,9 +90,9 @@
               <div class="dot d">i</div>
               <div class="dot e">n</div>
               <div class="dot f">g</div>
-              <div class="dot g">•</div>
-              <div class="dot h">•</div>
-              <div class="dot i">•</div>
+              <div class="dot g">.</div>
+              <div class="dot h">.</div>
+              <div class="dot i">.</div>
             </div>
           </div>
     </div>
