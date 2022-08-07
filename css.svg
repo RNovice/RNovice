@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             .back {
-                heigth: 600px;
+                height: 600px;
                 width: 600px;
                 background-color: white;
             }    
