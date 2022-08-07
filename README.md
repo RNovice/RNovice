@@ -1,7 +1,7 @@
 ### Hi I'm new to coding 👋
 
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="css.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 
