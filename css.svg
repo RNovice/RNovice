@@ -3,13 +3,18 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: red;
+                color: black;
             }
                 
             .yo {
                 height: 300px;
                 width: 300px;
 
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                
                 border: 1.5px solid black;
                 border-radius: 20px;
 
