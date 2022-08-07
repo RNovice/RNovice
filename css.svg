@@ -6,6 +6,10 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
+            h1:hover {
+                color: blue;
+            }
+
 
             @keyframes mymove {
                 from {
@@ -16,7 +20,7 @@
                 }
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <h1>Hi I'm new to coding 👋</h1>
         </div>
     </foreignObject>
 </svg>
