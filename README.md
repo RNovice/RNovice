@@ -17,7 +17,7 @@
 
 ### Why
 
-> why I'm hre
+> Why I'm hre
 
 `var currentAim = "Frontend"`
 
@@ -25,7 +25,7 @@
 
 📚 I'm currently learning `Typescript`、`Next.js`
 
-🎯 Goals： become a `currentAim` developer
+🎯 Goals： Become a `currentAim` developer
 
 <br/>
 
