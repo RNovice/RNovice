@@ -1,0 +1,73 @@
+<svg fill="none" viewBox="0 0 200 100" width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .box {
+          margin: 10px auto;
+          height: 100px;
+          width: 200px;
+          position: relative;
+        }
+        
+        .dot {
+          font-size: 24px;
+          font-weight: bold;
+          color: #fff;
+          position: absolute;
+          left: 9px;
+          top: 47px;
+          transform: translate( -50%, -50%);
+          text-shadow: -1px -1px #ccc, 1px -1px #ccc, -1px  1px #ccc, 1px  1px #ccc;
+          animation: infinity 2s linear infinite;
+        }
+
+        .b {animation-delay: .1s;}
+
+        .c {animation-delay: .2s;}
+
+        .d {animation-delay: .3s;}
+
+        .e {animation-delay: .4s;}
+
+        .f {animation-delay: .5s;}
+
+        .g {animation-delay: .6s;}
+
+        .h {animation-delay: .7s;}
+
+        .i {animation-delay: .8s;}
+
+        @keyframes infinity {
+          0%   {left:9px; top:47px; <!-- color:#f00; -->}
+          6%   {left:16px; top:70px;}
+          12%   {left:42px; top:82px;}
+          18%   {left:70px; top:70px; <!-- color:orange; -->}
+          25%   {left:95px; top:47px;}
+          31%   {left:119px; top:22px;}
+          37%   {left:147px; top:11px;}
+          43%   {left:173px; top:22px; <!-- color:gold; -->}
+          50%   {left:180px; top:47px;}
+          56%   {left:173px; top:70px;}
+          62%   {left:147px; top:82px; <!-- color:#0c0; -->}
+          68%   {left:119px; top:70px;}
+          75%   {left:95px; top:47px;}
+          81%   {left:70px; top:22px; <!-- color:#08f; -->}
+          87%   {left:42px; top:11px;}
+          93%   {left:17px; top:23px;}
+          100%   {left:9px; top:47px;}
+        }
+      </style>
+            <div class="box">
+              <div class="dot a">C</div>
+              <div class="dot b">o</div>
+              <div class="dot c">d</div>
+              <div class="dot d">i</div>
+              <div class="dot e">n</div>
+              <div class="dot f">g</div>
+              <div class="dot g">.</div>
+              <div class="dot h">.</div>
+              <div class="dot i">.</div>
+            </div>
+    </div>
+  </foreignObject>
+</svg>
