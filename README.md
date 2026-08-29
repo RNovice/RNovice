@@ -80,7 +80,6 @@ This GitHub account contains projects related to my practice, weird interests, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis logo" />
-  <img width="12" />
   
   <!-- 基礎設施 -->
   <img width="12" />
